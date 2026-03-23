@@ -1,0 +1,11 @@
+model,params,IoU,Dice,BoundaryPct
+Cellpose_cyto2,d=70_ft=0.6,0.0058,0.0111,1.7477
+Cellpose_cyto2,d=70_ft=0.4,0.0058,0.0111,1.6014
+Cellpose_cyto2,d=50_ft=0.6,0.0057,0.0109,1.643
+Cellpose_cyto2,d=50_ft=0.4,0.0057,0.0109,1.5803
+Cellpose_cyto2,d=30_ft=0.6,0.0049,0.0094,1.9242
+Cellpose_cyto2,d=30_ft=0.4,0.0048,0.0093,2.0995
+Watershed,md=8_fp=3,0.0022,0.0043,0.2727
+Watershed,md=12_fp=3,0.0021,0.0041,0.0
+Watershed,md=8_fp=5,0.0011,0.0022,0.0
+Watershed,md=12_fp=5,0.0011,0.0022,0.0
